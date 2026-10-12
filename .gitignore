@@ -1,0 +1,21 @@
+# Large datasets
+data/*.csv
+data/*.parquet
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Secrets
+.env
+**/.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
